@@ -1,0 +1,26 @@
+{
+  "name": "web_guid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "node connexion.js",
+    "dev": "nodemon connexion.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Youssef-AJDIJ/Web_GUID.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Youssef-AJDIJ/Web_GUID/issues"
+  },
+  "homepage": "https://github.com/Youssef-AJDIJ/Web_GUID#readme",
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "mysql2": "^3.13.0",
+    "nodemon": "^3.1.9"
+  }
+}

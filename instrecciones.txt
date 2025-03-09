@@ -1,0 +1,58 @@
+npm init -y      # Inicializar un proyecto Node.js con valores por defecto
+npm install -g yarn  # Instalar Yarn (opcional)
+
+npm install express         # Express.js (framework para servidores)
+npm install cors            # Middleware para permitir CORS
+npm install dotenv          # Manejo de variables de entorno
+npm install nodemon --save-dev # Reinicio automático del servidor en cambios
+
+npm install mongoose        # MongoDB con Mongoose
+npm install mysql2          # Cliente para MySQL
+npm install pg              # PostgreSQL
+npm install sequelize       # ORM para SQL (MySQL, PostgreSQL, etc.)
+
+npm install bcrypt          # Encriptación de contraseñas
+npm install jsonwebtoken    # JWT para autenticación
+npm install helmet          # Protección de seguridad en Express
+npm install express-rate-limit # Limitar peticiones a la API
+
+npm install axios           # Cliente HTTP para hacer solicitudes
+npm install multer          # Manejo de archivos en Express
+npm install lodash          # Utilidades para manipulación de datos
+npm install moment          # Manejo de fechas
+
+npm install jest            # Framework de testing
+npm install mocha chai      # Otra opción de testing
+
+
+
+/// react  ///
+
+npx create-react-app my-app   # Crear una nueva app con Create React App
+cd my-app                     # Entrar en el proyecto
+npm start                     # Iniciar el servidor de desarrollo
+
+npm install tailwindcss         # Tailwind CSS para estilos
+npm install @mui/material @emotion/react @emotion/styled  # Material UI
+npm install bootstrap           # Bootstrap para estilos
+npm install styled-components   # CSS-in-JS
+
+npm install react-router-dom    # React Router para gestionar rutas
+
+npm install redux react-redux   # Redux para manejo de estado
+npm install @reduxjs/toolkit    # Redux Toolkit (más fácil y optimizado)
+npm install zustand             # Alternativa más ligera a Redux
+
+npm install axios               # Cliente HTTP para hacer solicitudes
+npm install react-query         # Manejo avanzado de datos en caché
+
+npm install firebase            # Firebase (autenticación y base de datos)
+npm install jsonwebtoken        # JWT para autenticación
+
+npm install recharts            # Librería de gráficos
+npm install chart.js react-chartjs-2  # Alternativa para gráficos
+
+npm install moment              # Manejo de fechas
+npm install lodash              # Utilidades para manipulación de datos
+npm install classnames          # Manejo dinámico de clases CSS
+npm install framer-motion       # Animaciones avanzadas
